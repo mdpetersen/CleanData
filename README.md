@@ -9,3 +9,14 @@ Related information can be downloaded from http://archive.ics.uci.edu/ml/dataset
 Data can be downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ##Before run
+
+Download and extract UCI HAR Dataset and set as your R working directory.
+Then you can execute run_analysis.R
+
+##After run
+
+The result will be stored in tidy_data.txt file
+
+##More info
+
+Detailed information can be found in CodeBook.MD
